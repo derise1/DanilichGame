@@ -1,0 +1,1 @@
+{"root":[{"assemblyName":"Assembly-CSharp","nameSpace":"InfimaGames.LowPolyShooterPack","className":"Bootstraper","methodName":"Initialize","loadTypes":1,"isUnityClass":false},{"assemblyName":"Unity.InputSystem","nameSpace":"UnityEngine.InputSystem","className":"InputSystem","methodName":"RunInitializeInPlayer","loadTypes":1,"isUnityClass":true}]}
